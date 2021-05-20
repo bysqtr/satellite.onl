@@ -1,3 +1,3 @@
 # satellite.onl
 
-ssh check. dont mind me. 
+ssh check 2. dont mind me. 
